@@ -1,0 +1,77 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Cooper Bell",
+    "label": "Software Engineer",
+    "email": "john.cooper.bell@gmail.com",
+    "phone": "(254) 800-6035",
+    "summary": "Senior Software Engineer",
+    "location": {
+      "address": "2503 Paisley Dr.",
+      "postalCode": "76502",
+      "city": "Temple",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [{
+      "network": "Github",
+      "username": "deathgrindfreak",
+      "url": "https://github.com/deathgrindfreak"
+    }]
+  },
+  "work": [{
+    "name": "Carl Zeiss AG",
+    "position": "Senior Software Engineer",
+    "url": "https://www.zeiss.com/meditec/us/products/ophthalmology-optometry/veracity-surgical.html",
+    "startDate": "2017-05-01",
+    "summary": "Veracity is a cataract surgery planning solution and integrates with various EMRs and medical devices.  Worked across the entire stack of the application, from device integrations inside the clinic, AWS DevOps, server-side programming in Node.js to frontend development in React.js.",
+    "highlights": [
+      "Amazon Web Services",
+      "React.js",
+      "Typescript",
+      "Node.js/Express",
+      "Postgresql RDBMS",
+      "Docker"
+    ]
+  }, {
+    "name": "McLane Corporation",
+    "position": "Software Developer",
+    "url": "https://www.mclaneco.com",
+    "startDate": "2014-11-01",
+    "endDate": "2017-04-01",
+    "summary": "Develop and maintain multiple web applications and web services, mainly written in various Java frameworks (Vaadin, JSF and Struts mostly).  Use the Atlassian suite of products for CI, issues and wiki documentation (Bamboo, Jira, Confluence and Bitbucket).  Participate in on-call rotation every 5-6 weeks for production issues relating to applications.  Earned yearly bonuses for developing applications outside of regular assignments.",
+    "highlights": [
+      "Java Programming",
+      "Vaadin Web Framework",
+      "Oracle SQL",
+      "IBM DB2"
+    ]
+  }],
+  "skills": [{
+    "name": "Languages",
+    "keywords": ["Haskell", "Clojure", "Rust", "Typescript", "Javascript", "Lisp", "Bash", "C", "Python", "Ruby", "Java", "Elixir"]
+  }, {
+    "name": "Technologies",
+    "keywords": ["PostgreSQL", "Vim", "Emacs", "Docker", "Git", "AWS", "SQLite", "Linux", "ReachJS", "Zsh"]
+  }],
+  "education": [{
+    "institution": "University of Texas of the Permian Basin",
+    "url": "https://www.utpb.edu/",
+    "area": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2013",
+    "endDate": "2014"
+  }, {
+    "institution": "Oklahoma State University",
+    "url": "https://go.okstate.edu/",
+    "area": "Physics",
+    "studyType": "Bachelor",
+    "startDate": "2004",
+    "endDate": "2010"
+  }],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
