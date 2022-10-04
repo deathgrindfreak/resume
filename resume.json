@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Cooper Bell",
-    "label": "Software Engineer",
+    "label": "Senior Software Engineer",
     "email": "john.cooper.bell@gmail.com",
     "phone": "(254) 800-6035",
-    "summary": "Senior Software Engineer",
+    "summary": "I'm a Fullstack Software Engineer with experience in DevOps, web applications and services.  I'm fluent in several languages, but tend to prefer functional ones.  I love all facets of software engineering, especially the more theoretical aspects of it (including the adjacent subjects of mathematics and physics).",
     "location": {
       "address": "2503 Paisley Dr.",
       "postalCode": "76502",
@@ -52,22 +52,25 @@
     "keywords": ["Haskell", "Clojure", "Rust", "Typescript", "Javascript", "Lisp", "Bash", "C", "Python", "Ruby", "Java", "Elixir"]
   }, {
     "name": "Technologies",
-    "keywords": ["PostgreSQL", "Vim", "Emacs", "Docker", "Git", "AWS", "SQLite", "Linux", "ReachJS", "Zsh"]
+    "keywords": ["PostgreSQL", "Vim", "Emacs", "Docker", "Git", "AWS", "SQLite", "Linux", "ReactJS", "Zsh"]
   }],
   "education": [{
     "institution": "University of Texas of the Permian Basin",
     "url": "https://www.utpb.edu/",
     "area": "Computer Science",
-    "studyType": "Bachelor",
+    "studyType": "Bachelors of Science",
     "startDate": "2013",
     "endDate": "2014"
   }, {
     "institution": "Oklahoma State University",
     "url": "https://go.okstate.edu/",
     "area": "Physics",
-    "studyType": "Bachelor",
+    "studyType": "Bachelors of Science",
     "startDate": "2004",
     "endDate": "2010"
+  }],
+  "interests": [{
+    "keywords": ["Open Source", "Compilers", "Reading", "Physics", "Mathematics", "Powerlifting", "Music", "Guitar"]
   }],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
